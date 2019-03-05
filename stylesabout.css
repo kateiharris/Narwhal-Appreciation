@@ -10,6 +10,11 @@ body {
   padding: 10px;
 }
 
+.circularimage {
+  border-radius: 70px;
+  width: 300px;
+}
+
 .topnav a {
   float: center;
   text-align: center;
