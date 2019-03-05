@@ -28,7 +28,6 @@ body {
 
 div {
   min-height: 5vh;
-  width: 100vw;
 }
 
 h1 {
@@ -46,10 +45,9 @@ h3 {
 
 div.contrast {
   min-height: 5vh;
-  width: 100vw;
   background-color: rgb(5,5,5);
   color: rgb(204,255,229);
-  padding: 20px
+  padding: 10px;
 }
 
 ul.column {
