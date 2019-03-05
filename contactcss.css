@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(204,255,229);
+  font-family: "arial";
+  color: rgb(5,5,5);
+  text-align: center;
+}
+
+.topnav {
+  background-color: rgb(5,5,5);
+  padding: 10px;
+}
+
+.topnav a {
+  float: center;
+  text-align: center;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: rgb(204,255,229);
+}
+
+.topnav a:hover {
+  color: rgb(255,255,255);
+}
+
+div {
+  min-height: 5vh;
+}
+
+h1 {
+  font-size:2.5em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
