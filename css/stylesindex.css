@@ -22,7 +22,7 @@ background: #2affe5;
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-background: #0287a5; 
+background: #0287a5;
 }
 
 .topnav {
@@ -43,7 +43,7 @@ background: #0287a5;
 }
 
 .topnav a:hover {
-  color: rgb(255,255,255);
+  color: rgb(255, 161, 204);
 }
 
 div {
