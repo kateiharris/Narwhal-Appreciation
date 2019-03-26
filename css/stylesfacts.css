@@ -72,4 +72,5 @@ div.contrast {
 div.col-md-4:hover {
   font-size: 2em;
   transition: 0.9s ease;
+  color: rgb(255, 161, 204)
 }
