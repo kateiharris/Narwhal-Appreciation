@@ -60,5 +60,6 @@ h2 {
 
 form  { display: table;      }
 p     { display: table-row;  }
-label { display: table-cell; }
+label { display: table-cell;
+        min-width:150px; }
 input { display: table-cell; }
