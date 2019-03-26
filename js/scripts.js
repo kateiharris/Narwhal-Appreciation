@@ -12,3 +12,14 @@ slideIndex++;
 slides[slideIndex-1].style.display = "block";
 setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
+
+document.getElementById("hover").onmouseover = function() {mouseOver()};
+document.getElementById("hover").onmouseout = function() {mouseOut()};
+
+function mouseOver() {
+  document.getElementById("hover").alert = "Please remember to not feed the narwhals!";
+}
+
+function mouseOut() {
+  document.getElementById("hover").alert = "Thank you!";
+}
